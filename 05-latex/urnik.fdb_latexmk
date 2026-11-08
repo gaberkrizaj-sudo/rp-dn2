@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1794169792.70905 "c:/Users/Uporabnik/Downloads/rp/rp-dn2/05-latex/urnik.tex" "urnik.pdf" "urnik" 1794169793.78703 0
+["pdflatex"] 1794171533.88563 "c:/Users/Uporabnik/Downloads/rp/rp-dn2/05-latex/urnik.tex" "urnik.pdf" "urnik" 1794171535.01187 0
   "C:/Users/Uporabnik/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1794167044 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Uporabnik/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1793979907 22504 03b1fdbbadf869f32dc12e71f2842d2b ""
   "C:/Users/Uporabnik/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1793815993 25420 c75d5ce6d0f2bf28d485e0efad208fed ""
@@ -61,9 +61,9 @@
   "C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1761900684 5048 0270515b828149155424600fd2d58ac5 ""
   "C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1761202581 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
-  "c:/Users/Uporabnik/Downloads/rp/rp-dn2/05-latex/urnik.tex" 1794169791 29958 cf744bb83458a99055ae1d0ba4154167 ""
-  "urnik.aux" 1794169793 1616 31b8fd1ad7a4ba26c85b2bdb8e439272 "pdflatex"
-  "urnik.tex" 1794169791 29958 cf744bb83458a99055ae1d0ba4154167 ""
+  "c:/Users/Uporabnik/Downloads/rp/rp-dn2/05-latex/urnik.tex" 1794171532 29967 ec5fae4712dcde6ffce803ebdadd0d06 ""
+  "urnik.aux" 1794171534 1616 31b8fd1ad7a4ba26c85b2bdb8e439272 "pdflatex"
+  "urnik.tex" 1794171532 29967 ec5fae4712dcde6ffce803ebdadd0d06 ""
   (generated)
   "urnik.aux"
   "urnik.log"
